@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidystephenson/canvas-fc"
+    "url": "https://github.com/davidystephenson/cra-template-tsup"
   },
   "license": "Unlicense"
 }
