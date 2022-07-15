@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports, "__esModule", {value: true});function e(){return React.createElement(React.Fragment,null,React.createElement("h1",null,"Hello"),React.createElement("p",null,"World"))}exports.default = e;
+//# sourceMappingURL=App.js.map

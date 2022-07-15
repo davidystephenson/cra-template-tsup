@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/App.tsx"],"names":[],"mappings":"AAAe,YAA6B,CAC1C,MACE,yCACE,oBAAC,UAAG,OAAK,EAET,oBAAC,SAAE,OAAK,CACV,CAEJ","sourcesContent":["export default function App (): JSX.Element {\n  return (\n    <>\n      <h1>Hello</h1>\n\n      <p>World</p>\n    </>\n  )\n}\n"]}
