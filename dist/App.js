@@ -1,2 +1,2 @@
-"use strict";Object.defineProperty(exports, "__esModule", {value: true});function e(){return React.createElement(React.Fragment,null,React.createElement("h1",null,"Hello"),React.createElement("p",null,"World"))}exports.default = e;
+"use strict";Object.defineProperty(exports, "__esModule", {value: true}); function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }var _react = require('react'); var _react2 = _interopRequireDefault(_react);function p(){return _react2.default.createElement(_react2.default.Fragment,null,_react2.default.createElement("h1",null,"Hello"),_react2.default.createElement("p",null,"World"))}exports.default = p;
 //# sourceMappingURL=App.js.map
