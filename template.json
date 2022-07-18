@@ -3,7 +3,7 @@
     "scripts": {
       "start": "react-scripts start",
       "build": "react-scripts build",
-      "package": "tsup"
+      "package": "tsup && node ./setPackages.js"
     },
     "dependencies": {},
     "devDependencies": {
