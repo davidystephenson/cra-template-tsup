@@ -5,6 +5,6 @@
   "minify": true,
   "dts": true,
   "entry": [
-    "src/App.tsx"
+    "src/tsup.tsx"
   ]
 }
