@@ -9,7 +9,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "package": "tsup && npx tsup-package package.json"
+    "package": "tsup && npx tsup-package"
   },
   "eslintConfig": {
     "extends": [
